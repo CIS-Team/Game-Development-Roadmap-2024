@@ -1,6 +1,6 @@
 # Game-Development-Roadmap-2024
 # **Intro**
-                             Life is a game you just need to it's know the rules
+                             Life is a game you just need to know it's the rules
   
 **Game Dev.** Is a very interested Track (To me at leaset) You Can make Your own World With It. Game Dev. consist of 3 basics 
 branches=> (Game Programming - Art - Design) and Each one of them is more interesting than the others for make a game we use 
@@ -81,6 +81,8 @@ so here we are the game programming can use a lot languages more than you think 
 ---
 # Design Road Map
 # **INTRO**
+                             without Good Design Game Is Like OldMan 
+
 Game designing is the process of creating the rules, mechanics, story, and aesthetics of a video game. Game designers work with programmers, artists, writers, and other professionals to turn their vision into a playable experience. Game designing can be challenging, rewarding, and fun, depending on the type and scope of the game. Some game designers focus on specific aspects of the game, such as level design, narrative design, or user interface design, while others oversee the whole project from start to finish. Game designing requires creativity, problem-solving skills, communication skills, and knowledge of game theory and psychology.
 
 
@@ -150,6 +152,9 @@ _Now after you have learned the basics of **game Designing** in general you will
 * [START MENU in Unity](https://youtu.be/zc8ac_qUXQY?si=nD3ib1Uwp8MsuS2X).
 ---
 # Game Art
+# **Intro**
+                            If Code is Brian And design Is The Body Then Art Would Be The Soul
+
 ## Color Theory
 * Before we Draw Or Modeling Any Thing We Should Now Everything About Colors So here we Are: 
 1- [color theory Starting ](https://youtu.be/NBg3GjrcMF4?si=dm0HkYGOj8PDecUF)
